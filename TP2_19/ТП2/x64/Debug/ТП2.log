@@ -1,0 +1,4 @@
+﻿  ТП2.cpp
+C:\Users\Станислав\OneDrive\Рабочий стол\ТП2fuckingslavesversion\ТП2\ТП2.cpp(55,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Станислав\OneDrive\Рабочий стол\ТП2fuckingslavesversion\ТП2\ТП2.cpp(60,8): warning C4101: X1: неиспользованная локальная переменная
+  ТП2.vcxproj -> C:\Users\Станислав\OneDrive\Рабочий стол\ТП2fuckingslavesversion\x64\Debug\ТП2.exe
